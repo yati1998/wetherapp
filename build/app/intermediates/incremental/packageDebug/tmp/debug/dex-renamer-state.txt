@@ -1,0 +1,4 @@
+#Mon Sep 24 12:38:30 IST 2018
+base.0=/home/yati/Documents/weather_app/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
